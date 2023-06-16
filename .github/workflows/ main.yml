@@ -151,5 +151,6 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          # Тут вместо username должен быть ваш логин на DockerHub
-          tags: elnutat/taski_gateway:latest
+          # Тут вместо username должен быть ваш логин на Docker Hub
+          tags: elnurat/taski_gateway:latest
+
